@@ -6,7 +6,7 @@
 <a href="https://linkedin.com/in/juanastudillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/juanastudillo/juanastudillo/main/assets/images/other_images/linked-in-alt.svg" alt="juanastudillo" height="30" width="40" /></a>
 
   
-<a href="https://www.adelaida.ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/juanastudillo/juanastudillo/main/assets/images/other_images/adelaida-brain-01.svg" alt="Adelaida.ai" height="30" width="40" /></a>
+<a href="https://www.adelaida.ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/juanastudillo/juanastudillo/main/assets/images/other_images/adelaida-brain-02.svg" alt="Adelaida.ai" height="30" width="40" /></a>
   
 
 </p>
