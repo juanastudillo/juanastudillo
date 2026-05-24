@@ -5,12 +5,12 @@
   <tr>
     <td>
       <a href="[https://www.credly.com/badges/42df5fa0-4e80-4050-8429-380a3769c4f6/public_url]" target="_blank">
-      <img src='/generative-ai-leader-certification.png' />
+      <img src='/generative-ai-leader-certification.png' style="width:30px; height:30px" />
       </a>
     </td> 
     <td>
       <a href="[https://www.credly.com/badges/42df5fa0-4e80-4050-8429-380a3769c4f6/public_url]" target="_blank">
-        <img src='/cloud-digital-leader-certification.png' />
+        <img src='/cloud-digital-leader-certification.png'  style="width:30px; height:30px" />
       </a>  
     </td>
   </tr>
