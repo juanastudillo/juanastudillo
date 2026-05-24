@@ -9,7 +9,7 @@
       </a>
     </td> 
     <td>
-      <a href="[https://www.credly.com/badges/42df5fa0-4e80-4050-8429-380a3769c4f6/public_url]" target="_blank">
+      <a href="https://www.credly.com/badges/42df5fa0-4e80-4050-8429-380a3769c4f6/public_url" target="blank">
         <img src='/cloud-digital-leader-certification.png'  style="width:180px; height:180px" />
       </a>  
     </td>
