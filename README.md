@@ -4,6 +4,11 @@
 <table width="100%" colspacing="0" cellpadding="0" border="0">
   <tr>
     <td>
+      AI + Cloud + GCP Certifications 
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://www.credly.com/badges/42df5fa0-4e80-4050-8429-380a3769c4f6/public_url" target="_blank">
       <img src='/generative-ai-leader-certification.png' style="width:180px; height:180px" />
       </a>
@@ -12,6 +17,11 @@
       <a href="https://www.credly.com/badges/42df5fa0-4e80-4050-8429-380a3769c4f6/public_url" target="blank">
         <img src='/cloud-digital-leader-certification.png'  style="width:180px; height:180px" />
       </a>  
+    </td>
+  </tr>
+   <tr>
+    <td>
+      DevSecOps + AI + DevOps Certifications 
     </td>
   </tr>
   <tr>
@@ -24,6 +34,11 @@
       <a href="https://www.credly.com/badges/13b07d3c-f29f-43e3-9b15-419b118e09c8/public_url" target="blank">
         <img src='/gitlab-certified-duo-agent-platform-associate.png'  style="width:180px; height:180px" />
       </a>  
+    </td>
+  </tr>
+   <tr>
+    <td>
+      Cybersecurity Certifications 
     </td>
   </tr>
     <tr>
