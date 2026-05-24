@@ -68,6 +68,14 @@
       <img src='/assets/images/badges/certificado-en-tecnicas-de-inteligencia-de-amenazas-para-ciberdefensa.png' style="width:180px; height:180px" />
       </a>
     </td>
+      
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.credly.com/badges/fa89c755-ce64-4cd8-9e81-c28d2f92f446/public_url" target="blank">
+      <img src='assets/images/badges/introduccion-al-hacking-etico-y-pentesting.png' style="width:180px; height:180px" />
+      </a>
+    </td>
   </tr>
 </table>
 <h3 align="left">Connect with me:</h3>
