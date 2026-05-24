@@ -46,12 +46,14 @@
       Cybersecurity & Intelligence Certifications 
     </td>
   </tr>
-    <tr>
+  <tr>
     <td>
       <a href="https://www.credly.com/badges/0cfa3480-6b8b-4c5b-bddd-2f9e19853478/public_url" target="blank">
       <img src='/diplomado-en-red-team.png' style="width:180px; height:180px" />
       </a>
     </td> 
+  </tr>
+  <tr>
     <td>
       <a href="https://www.credly.com/badges/51275c4a-5643-44c7-9307-3228cd5d3c34/public_url" target="blank">
       <img src='/auditoria-a-la-ciberseguridad.png' style="width:180px; height:180px" />
@@ -67,9 +69,6 @@
       <img src='/assets/images/badges/certificado-en-tecnicas-de-inteligencia-de-amenazas-para-ciberdefensa.png' style="width:180px; height:180px" />
       </a>
     </td>
-      
-  </tr>
-  <tr>
     <td>
       <a href="https://www.credly.com/badges/fa89c755-ce64-4cd8-9e81-c28d2f92f446/public_url" target="blank">
       <img src='assets/images/badges/introduccion-al-hacking-etico-y-pentesting.png' style="width:180px; height:180px" />
