@@ -37,6 +37,11 @@
       <img src='/auditoria-a-la-ciberseguridad.png' style="width:180px; height:180px" />
       </a>
     </td>
+      <td>
+      <a href="https://www.credly.com/badges/a58e3685-62f4-4582-9557-2107d23c9bb6/public_url" target="blank">
+      <img src='/assets/images/badges/certificado-en-pentesting-web.png' style="width:180px; height:180px" />
+      </a>
+    </td>
       
   </tr>
   
