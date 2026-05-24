@@ -1,6 +1,5 @@
 [![MasterHead](https://www.machinelearning.ws/img/in_the_race_of_excelence.jpg)](https://www.juanastudillo.cl)
 <h3 align="Left">Computer Science Engineer dedicated to Data & Artificial Intelligence 🐍</h3>
-
 <table width="100%" colspacing="0" cellpadding="0" border="0">
   <tr>
     <td colspan="2">
@@ -44,7 +43,7 @@
 <table width="100%" colspacing="0" cellpadding="0" border="0">
    <tr>
     <td colspan="">
-      Cybersecurity Certifications 
+      Cybersecurity % Intelligence Certifications 
     </td>
   </tr>
     <tr>
