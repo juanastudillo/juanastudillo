@@ -76,6 +76,21 @@
     </td>
   </tr>
 </table>
+<br>
+<table width="100%" colspacing="0" cellpadding="0" border="0">
+   <tr>
+    <td colspan="4">
+      Datascience + Artificial Intelligence 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.credly.com/badges/fa89c755-ce64-4cd8-9e81-c28d2f92f446/public_url" target="blank">
+      <img src='assets/images/badges/introduccion-al-hacking-etico-y-pentesting.png' style="width:180px; height:180px" />
+      </a>
+    </td>
+  </tr>
+</table>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/juanastudillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/juanastudillo/juanastudillo/main/assets/images/other_images/linked-in-alt.svg" alt="juanastudillo" height="30" width="40" /></a>
