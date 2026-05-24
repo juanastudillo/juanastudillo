@@ -33,8 +33,11 @@
       </a>
     </td> 
     <td>
-      &nbsp; 
+      <a href="https://www.credly.com/badges/51275c4a-5643-44c7-9307-3228cd5d3c34/public_url" target="blank">
+      <img src='/auditoria-a-la-ciberseguridad.png' style="width:180px; height:180px" />
+      </a>
     </td>
+      
   </tr>
   
 </table>
