@@ -43,7 +43,7 @@
 <table width="100%" colspacing="0" cellpadding="0" border="0">
    <tr>
     <td colspan="">
-      Cybersecurity % Intelligence Certifications 
+      Cybersecurity & Intelligence Certifications 
     </td>
   </tr>
     <tr>
