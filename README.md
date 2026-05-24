@@ -3,7 +3,7 @@
 
 <table width="100%" colspacing="0" cellpadding="0" border="0">
   <tr>
-    <td>
+    <td colspan="2">
       AI + Cloud + GCP Certifications 
     </td>
   </tr>
@@ -19,8 +19,10 @@
       </a>  
     </td>
   </tr>
+</table>
+<table width="100%" colspacing="0" cellpadding="0" border="0">
    <tr>
-    <td>
+    <td colspan="2">
       DevSecOps + AI + DevOps Certifications 
     </td>
   </tr>
@@ -36,8 +38,10 @@
       </a>  
     </td>
   </tr>
+</table>
+<table width="100%" colspacing="0" cellpadding="0" border="0">
    <tr>
-    <td>
+    <td colspan="">
       Cybersecurity Certifications 
     </td>
   </tr>
