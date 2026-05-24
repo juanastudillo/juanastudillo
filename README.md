@@ -26,7 +26,16 @@
       </a>  
     </td>
   </tr>
-  
+    <tr>
+    <td>
+      <a href="https://www.credly.com/badges/0cfa3480-6b8b-4c5b-bddd-2f9e19853478/public_url" target="blank">
+      <img src='/diplomado-en-red-team.png' style="width:180px; height:180px" />
+      </a>
+    </td> 
+    <td>
+      &nbsp; 
+    </td>
+  </tr>
   
 </table>
 <h3 align="left">Connect with me:</h3>
