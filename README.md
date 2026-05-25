@@ -1,5 +1,5 @@
 [![MasterHead](https://www.machinelearning.ws/img/in_the_race_of_excelence.jpg)](https://www.juanastudillo.cl)
-<h3 align="Left">Computer Science Engineer dedicated to Data & Artificial Intelligence 🐍</h3>
+<h3 align="Left">Technical Lead Manager | Energy Sector | SAP S/4HANA Migration, GCP Architecture, Salesforce Integration | Leading 6+ Tech Leads across IT Engineering | CleanTech</h3>
 <table width="100%" colspacing="0" cellpadding="0" border="0">
   <tr>
     <td colspan="2">
