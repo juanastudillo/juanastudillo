@@ -67,7 +67,7 @@
   </tr>
   <tr>
     <td>
-      <img src='assets/images/badges/introduccion-al-hacking-etico-y-pentesting.png' style="width:180px; height:180px" />
+      <img src='assets/images/badges/datascience/tools-for-data-science.png' style="width:180px; height:180px" />
     </td>
   </tr>
 </table>
