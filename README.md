@@ -29,6 +29,9 @@
     <td>
         <img src='/gitlab-certified-duo-agent-platform-associate.png'  style="width:180px; height:180px" />
     </td>
+    <td>
+      <img src='/gitlab-certified-security-associate.png' style="width:180px; height:180px" />
+    </td> 
   </tr>
 </table>
 <br>
