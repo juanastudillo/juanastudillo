@@ -19,7 +19,7 @@
 <table width="100%" colspacing="0" cellpadding="0" border="0">
    <tr>
     <td colspan="2">
-      DevSecOps + AI + DevOps Certifications 
+      DevSecOps Gitlab Certifications 
     </td>
   </tr>
   <tr>
