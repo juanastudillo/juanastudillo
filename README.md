@@ -24,13 +24,13 @@
   </tr>
   <tr>
     <td>
-      <a href="https://www.credly.com/badges/4595ac53-ceaf-456f-a5db-625e81805213/public_url" target="_blank" rel="noopener noreferrer"><img src=[...]
+      <a href="https://www.credly.com/badges/4595ac53-ceaf-456f-a5db-625e81805213/public_url" target="_blank" rel="noopener noreferrer"><img src='/gitlab-certified-fundamentals-associate.png' style="width:180px; height:180px" /></a>
     </td> 
     <td>
-      <a href="https://www.credly.com/badges/13b07d3c-f29f-43e3-9b15-419b118e09c8/public_url" target="_blank" rel="noopener noreferrer"><img src=[...]
+      <a href="https://www.credly.com/badges/13b07d3c-f29f-43e3-9b15-419b118e09c8/public_url" target="_blank" rel="noopener noreferrer"><img src='/gitlab-certified-duo-agent-platform-associate.png' style="width:180px; height:180px" /></a>
     </td>
     <td>
-      <a href="https://www.credly.com/badges/2a72f977-f591-466b-8fab-b1a7d208655d/public_url" target="_blank" rel="noopener noreferrer"><img src=[...]
+      <a href="https://www.credly.com/badges/2a72f977-f591-466b-8fab-b1a7d208655d/public_url" target="_blank" rel="noopener noreferrer"><img src='/gitlab-certified-security-associate.png' style="width:180px; height:180px" /></a>
     </td> 
   </tr>
 </table>
