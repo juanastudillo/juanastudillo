@@ -76,5 +76,5 @@
 </table>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/juanastudillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/juanastudillo/juanastudillo/main/assets/images/other_images/linked-in-alt.svg"[...]
+<a href="https://linkedin.com/in/juanastudillo" target="blank"><img align="center" style="width:80px; height:80px" src="https://raw.githubusercontent.com/juanastudillo/juanastudillo/main/assets/images/other_images/linked-in-alt.svg"[...]
 </p>
